@@ -1,7 +1,8 @@
 # UC-B-Capstone Project — Investor Risk Profiling & Product Recommendation 
 
 Project notebook: `Capstone_Arun_UCB_2025.ipynb`
-!!! ## **Note: This file is large and may not render on GitHub. Please download a copy to view it locally.**
+!!! note
+## **Note: This file is large and may not render on GitHub. Please download a copy to view it locally.**
 
 ## Executive summary / Business objective
 

@@ -1,4 +1,4 @@
-# Capstone Project — Investor Risk Profiling & Product Recommendation 
+# UC-B-Capstone Project — Investor Risk Profiling & Product Recommendation 
 
 Project notebook: `Capstone_Arun_UCB_2025.ipynb`
 
